@@ -31,6 +31,7 @@ a.prev:hover {
     z-index: 1;
     flex-direction: row;
     justify-content: space-between;
+    border-radius: 6px;
     background-color: $bg;
     box-shadow: 0 0 8px rgba(209, 205, 199, .35);
     a {
