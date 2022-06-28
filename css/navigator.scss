@@ -10,7 +10,7 @@ $bordr: #eee;
     background-color: $bg;
     flex-direction: column;
     border: 0 !important;
-    box-shadow: 0 0 8px rgba(209, 205, 199, .5);
+   // box-shadow: 0 0 8px rgba(209, 205, 199, .5);
 }
 
 .navbar-right .dropdown-content {
@@ -45,7 +45,7 @@ $bordr: #eee;
     justify-content: space-between;
     flex-direction: row;
     width: 100%;
-    padding: 0 5%;
+    padding: 0 30%;
     height: 52px;
 }
 
