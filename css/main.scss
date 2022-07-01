@@ -117,11 +117,28 @@ p,
     font-weight: 400;
 }
 
-.navbar-brand,
+
 .right-foot,
 .pager {
     font-size: $small;
 }
+
+.navbar-brand
+{
+    margin-top: 1.616rem;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 1.1rem;
+    padding-top: 0;
+    margin-bottom: 1.75rem;
+    color: inherit;
+    font-family: Montserrat,sans-serif;
+    font-weight: 900;
+    text-rendering: optimizeLegibility;
+    font-size: 2.5rem;
+    line-height: 1.1;
+}
+
 
 .busuanzi,
 .behind,
@@ -180,7 +197,7 @@ ul {
 }
 
 ul.posts {
-    padding: 233px 10px 0;
+    padding: 100px 10px 0;
 }
 
 .behind {
