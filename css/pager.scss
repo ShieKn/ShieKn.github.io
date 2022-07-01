@@ -27,13 +27,13 @@ a.prev:hover {
 }
 
 .pager {
-    margin: 0 52px 32px;
+    margin: 0 0 32px;
     z-index: 1;
     flex-direction: row;
     justify-content: space-between;
     border-radius: 6px;
     background-color: $bg;
-    box-shadow: 0 0 8px rgba(209, 205, 199, .35);
+    box-shadow: 0 0 2px rgba(209, 205, 199, .35);
     a {
         color: $a;
     }
