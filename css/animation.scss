@@ -32,4 +32,5 @@ a:focus {
     visibility: visible;
     @include transformY;
     opacity: 1;
+    border-radius: 6px;
 }
